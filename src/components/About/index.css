@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+* {
+  font-family: 'Roboto';
+}
+
+.about-app-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.about-main-container {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+
+.navigation-home-about-container {
+  align-self: center;
+}
+
+.nav-link {
+  margin-right: 12px;
+}

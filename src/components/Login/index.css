@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+* {
+  font-family: 'Roboto';
+}
+
+.app-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 5px;
+}
+
+.pls-login {
+  color: black;
+  font-weight: 500;
+}

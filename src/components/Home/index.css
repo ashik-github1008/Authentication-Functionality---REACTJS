@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+* {
+  font-family: 'Roboto';
+}
+
+.home-app-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.home-main-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.navigation-home-about-container {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  padding-left: 0px;
+}
